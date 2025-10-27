@@ -1,0 +1,39 @@
+{
+    "Actinic Keratosis": {
+      "description": "Actinic keratosis is a precancerous lesion caused by cumulative UV exposure. It typically presents as rough, scaly, or crusted patches on sun‐exposed areas such as the face, ears, scalp, hands, and neck. Often described as having a sandpaper-like texture, these lesions can sometimes progress to squamous cell carcinoma if left untreated.",
+      "treatment": "Treatment options include cryotherapy, topical medications (e.g., 5-fluorouracil, imiquimod, ingenol mebutate, diclofenac gel), photodynamic therapy, chemical peels, curettage with electrodesiccation, and in selected cases, surgical excision."
+    },
+    "Basal Cell Carcinoma": {
+      "description": "Basal cell carcinoma (BCC) is the most common form of skin cancer and originates from the basal cells of the epidermis. Clinically, BCC often appears as a pearly, translucent nodule or a non-healing ulcer (sometimes called a rodent ulcer) on sun-exposed areas such as the face, neck, and scalp. It tends to grow slowly and rarely metastasizes.",
+      "treatment": "Treatment includes surgical excision or Mohs micrographic surgery for margin control, curettage and electrodesiccation, cryotherapy, topical chemotherapy (5-fluorouracil or imiquimod), photodynamic therapy, and radiation therapy in select patients."
+    },
+    "Melanoma": {
+      "description": "Melanoma is the most aggressive skin cancer, arising from melanocytes. It is often recognized by a mole that changes in size, shape, or color, displaying irregular borders and color variation. Early diagnosis is critical, as melanoma can metastasize rapidly if not treated.",
+      "treatment": "The primary treatment is wide local excision with appropriate margins, often combined with sentinel lymph node biopsy. Advanced melanomas may require additional treatments including immunotherapy, targeted therapy, chemotherapy, and radiation therapy."
+    },
+    "Nevus": {
+      "description": "A nevus (mole) is a benign proliferation of melanocytes that typically appears as a small, round, pigmented lesion with a smooth border. While most are harmless, changes in a nevus's appearance—such as asymmetry, border irregularity, color variation, or rapid growth—may warrant evaluation.",
+      "treatment": "Usually, no treatment is needed unless there is cosmetic concern or suspicion for malignancy. Excision or shave removal can be performed if changes are observed or for diagnostic confirmation via biopsy."
+    },
+    "Pigmented Benign Keratosis": {
+      "description": "Pigmented benign keratoses are non-cancerous, scaly lesions that exhibit pigmentation. They may resemble other pigmented lesions but are benign in nature and most commonly occur in middle-aged or older adults.",
+      "treatment": "Treatment is generally not necessary unless the lesions are symptomatic or cosmetically concerning. Options include cryotherapy, curettage, or laser removal."
+    },
+    "Dermatofibroma": {
+      "description": "Dermatofibromas are benign fibrous skin nodules that usually appear on the extremities. They are firm, often hyperpigmented bumps that are generally asymptomatic and found incidentally.",
+      "treatment": "Treatment is not required unless the lesion is symptomatic or for cosmetic reasons. If needed, simple surgical excision or cryotherapy may be performed."
+    },
+    "Seborrheic Keratosis": {
+      "description": "Seborrheic keratoses are benign, warty growths with a 'stuck-on' appearance that commonly occur in middle-aged and older adults. They range in color from light tan to dark brown and typically appear on the trunk, face, or scalp.",
+      "treatment": "Treatment is usually for cosmetic reasons or if irritation occurs. Common methods include cryotherapy, curettage, laser therapy, or, rarely, topical treatments."
+    },
+    "Squamous Cell Carcinoma": {
+      "description": "Squamous cell carcinoma (SCC) is a common skin cancer arising from the squamous cells of the epidermis. SCC can present as scaly, red patches, firm nodules, or non-healing ulcers on sun-exposed areas. It has a higher risk of local tissue invasion and metastasis compared to basal cell carcinoma.",
+      "treatment": "Treatment options typically include surgical excision or Mohs micrographic surgery, cryotherapy, radiation therapy, and in some superficial cases, topical chemotherapy (e.g., 5-fluorouracil or imiquimod)."
+    },
+    "Vascular Lesion": {
+      "description": "Vascular lesions are benign abnormalities of blood vessels, such as cherry angiomas, hemangiomas, and telangiectasias. They usually appear as red, purple, or blue spots or nodules on the skin and are often asymptomatic.",
+      "treatment": "Many vascular lesions require no treatment unless they cause cosmetic concern or symptoms. When intervention is desired, options include laser therapy, electrocautery, or surgical removal."
+    }
+  }
+  

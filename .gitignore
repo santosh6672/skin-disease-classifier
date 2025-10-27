@@ -1,0 +1,117 @@
+# ===========================================
+# Python
+# ===========================================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.idea/
+.vscode/
+
+# ===========================================
+# FastAPI / Build / Logs
+# ===========================================
+*.log
+*.sqlite3
+*.db
+*.pid
+*.pyc
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+instance/
+.DS_Store
+
+# ===========================================
+# OS generated files
+# ===========================================
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+Icon?
+*.swp
+*~
+
+# ===========================================
+# Jupyter & Colab
+# ===========================================
+.ipynb_checkpoints/
+*.ipynb_save
+.colab/
+
+# ===========================================
+# Machine Learning / Deep Learning
+# ===========================================
+# Model checkpoints
+*.h5
+*.hdf5
+*.keras
+*.ckpt
+checkpoint/
+checkpoints/
+models/*.keras
+models/*.h5
+models/*.pkl
+
+# TensorBoard logs
+logs/
+runs/
+
+# Dataset / temporary data
+data/
+dataset/
+datasets/
+uploads/
+tmp/
+temp/
+
+# ===========================================
+# Environment & secrets
+# ===========================================
+.env
+.env.*
+*.secret
+*.json.backup
+secrets.json
+
+# ===========================================
+# IDE / Tooling
+# ===========================================
+*.idea/
+*.iml
+.vscode/
+*.code-workspace
+
+# ===========================================
+# Caches
+# ===========================================
+.cache/
+__pypackages__/
+.pytest_cache/
+.mypy_cache/
+.dmypy.json
+.pyre/
+coverage/
+htmlcov/
+*.cover
+*.py,cover
+.cache/
+
+# ===========================================
+# Node frontend (if any)
+# ===========================================
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+build/
